@@ -1,8 +1,5 @@
 # forgEtsy header & search bar
 
-Link to microservice demo - https://bit.ly/2oqtf5r
-
-
 ### Technologies
 Frontend: TypeScript, React, React Router & CSS Modules
 
